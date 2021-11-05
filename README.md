@@ -1,6 +1,6 @@
 # Desafio - Desenhando através de Padrões
 
-Este desafio tem a finalidade de através de conceitos básicos de estrutura de lógica, apresentar o desenho de um ampulheta, de acordo com um número >= 20 informado pelo usuário.
+Este desafio tem a finalidade de através de conceitos básicos de estrutura de lógica, apresentar o desenho de uma ampulheta, de acordo com um número >= 20 informado pelo usuário.
 
 ### Exemplo
 
